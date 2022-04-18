@@ -1,0 +1,11 @@
+C:\Users\инет\source\repos\ECS18\WpfLibrary1\bin\Debug\net5.0-windows\WpfLibrary1.deps.json
+C:\Users\инет\source\repos\ECS18\WpfLibrary1\bin\Debug\net5.0-windows\WpfLibrary1.dll
+C:\Users\инет\source\repos\ECS18\WpfLibrary1\bin\Debug\net5.0-windows\ref\WpfLibrary1.dll
+C:\Users\инет\source\repos\ECS18\WpfLibrary1\bin\Debug\net5.0-windows\WpfLibrary1.pdb
+C:\Users\инет\source\repos\ECS18\WpfLibrary1\obj\Debug\net5.0-windows\WpfLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\инет\source\repos\ECS18\WpfLibrary1\obj\Debug\net5.0-windows\WpfLibrary1.AssemblyInfoInputs.cache
+C:\Users\инет\source\repos\ECS18\WpfLibrary1\obj\Debug\net5.0-windows\WpfLibrary1.AssemblyInfo.cs
+C:\Users\инет\source\repos\ECS18\WpfLibrary1\obj\Debug\net5.0-windows\WpfLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\инет\source\repos\ECS18\WpfLibrary1\obj\Debug\net5.0-windows\WpfLibrary1.dll
+C:\Users\инет\source\repos\ECS18\WpfLibrary1\obj\Debug\net5.0-windows\ref\WpfLibrary1.dll
+C:\Users\инет\source\repos\ECS18\WpfLibrary1\obj\Debug\net5.0-windows\WpfLibrary1.pdb

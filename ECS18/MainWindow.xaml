@@ -1,0 +1,19 @@
+﻿<Window x:Class="ECS18.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ECS18"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="a_box" HorizontalAlignment="Left" Margin="24,69,0,0" Text="Входящие 2" TextWrapping="Wrap" VerticalAlignment="Top" Width="164" Height="30"/>
+        <TextBox x:Name="b_box" HorizontalAlignment="Left" Margin="24,99,0,0" Text="Сегодня 3" TextWrapping="Wrap" VerticalAlignment="Top" Width="164" Height="30"/>
+        <TextBox x:Name="c_box" HorizontalAlignment="Left" Margin="24,129,0,0" Text="Предстоящие 8" TextWrapping="Wrap" VerticalAlignment="Top" Width="164" Height="30"/>
+        <Button x:Name="second_button" Content="Добавить список" HorizontalAlignment="Left" Margin="24,175,0,0" VerticalAlignment="Top" Height="23" Width="164" Click="Button_Click"/>
+        <TextBox HorizontalAlignment="Center" Text="Список задач" TextWrapping="Wrap" VerticalAlignment="Top" Width="800" Height="37" FontSize="22"/>
+        <Frame   Margin="386,37,0,0" NavigationUIVisibility="Hidden" Source="/Pages/Page1.xaml"/>
+
+
+    </Grid>
+</Window>
